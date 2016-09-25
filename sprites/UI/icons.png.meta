@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 005579c290176354a93f4fd3aeffc715
+timeCreated: 1474773290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: factory
+    21300002: door
+    21300004: house
+    21300006: anvil
+    21300008: gearhammer
+    21300010: ibeam
+    21300012: wall
+    21300014: oil
+    21300016: icons_10
+    21300018: cone
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: factory
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2430
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 49}
+        - {x: -52, y: 26}
+        - {x: -52, y: -49}
+        - {x: 52, y: -49}
+        - {x: 52, y: 49}
+    - name: door
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2430
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 52}
+        - {x: -38.5, y: 52}
+        - {x: -39.5, y: 51}
+        - {x: -39.5, y: -52}
+        - {x: 37.5, y: -52}
+        - {x: 38.5, y: -49}
+        - {x: 39.5, y: -37}
+        - {x: 39.5, y: 43}
+    - name: house
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2430
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.100006, y: 52}
+        - {x: -40.899994, y: 52}
+        - {x: -52.899994, y: 24}
+        - {x: -52.899994, y: -24}
+        - {x: -44.899994, y: -52}
+        - {x: 49.100006, y: -52}
+        - {x: 54.100006, y: -41}
+        - {x: 54.100006, y: 11}
+      - - {x: -52.899994, y: -29}
+        - {x: -49.899994, y: -28}
+        - {x: -49.899994, y: -14}
+        - {x: -51.899994, y: -12}
+        - {x: -52.899994, y: -12}
+      - - {x: -52.899994, y: 15}
+        - {x: -49.899994, y: 16}
+        - {x: -49.899994, y: 30}
+        - {x: -51.899994, y: 32}
+        - {x: -52.899994, y: 32}
+    - name: anvil
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2427
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.899994, y: 49.099976}
+        - {x: -52.899994, y: 25.099976}
+        - {x: -52.899994, y: -33.900024}
+        - {x: -33.899994, y: -47.900024}
+        - {x: 54.100006, y: -47.900024}
+        - {x: 54.100006, y: 37.099976}
+        - {x: 49.100006, y: 49.099976}
+    - name: gearhammer
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2271
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 56.30005}
+        - {x: -38, y: 56.30005}
+        - {x: -54, y: 41.30005}
+        - {x: -54, y: -33.69995}
+        - {x: -37, y: -46.69995}
+        - {x: -16, y: -54.69995}
+        - {x: 11, y: -54.69995}
+        - {x: 27, y: -51.69995}
+        - {x: 43, y: -43.69995}
+        - {x: 54, y: -31.699951}
+        - {x: 54, y: 53.30005}
+    - name: ibeam
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2270
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 55}
+        - {x: -54, y: -8}
+        - {x: -7, y: -55}
+        - {x: 54, y: -55}
+        - {x: 54, y: 7}
+        - {x: 25, y: 55}
+    - name: wall
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2280
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 52}
+        - {x: -53.5, y: -52}
+        - {x: 53.5, y: -52}
+        - {x: 53.5, y: 52}
+    - name: oil
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2286
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.300018, y: 54.30005}
+        - {x: -6.6999817, y: 54.30005}
+        - {x: -27.699982, y: 39.30005}
+        - {x: -32.69998, y: -16.699951}
+        - {x: -32.69998, y: -52.69995}
+        - {x: 33.30002, y: -52.69995}
+        - {x: 34.30002, y: -50.69995}
+        - {x: 34.30002, y: -10.699951}
+        - {x: 26.300018, y: 53.30005}
+    - name: icons_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2142
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.300003, y: 43.599976}
+        - {x: -19.699997, y: 43.599976}
+        - {x: -47.699997, y: 31.599976}
+        - {x: -48.699997, y: 25.599976}
+        - {x: -48.699997, y: -41.400024}
+        - {x: -39.699997, y: -42.400024}
+        - {x: 43.300003, y: -42.400024}
+        - {x: 50.300003, y: -33.400024}
+        - {x: 50.300003, y: 9.599976}
+        - {x: 42.300003, y: 36.599976}
+    - name: cone
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2427
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.600006, y: 54.099976}
+        - {x: -50.600006, y: -23.900024}
+        - {x: -50.600006, y: -34.900024}
+        - {x: -44.600006, y: -46.900024}
+        - {x: -29.600006, y: -52.900024}
+        - {x: 30.399994, y: -52.900024}
+        - {x: 47.399994, y: -34.900024}
+        - {x: 47.399994, y: -5.9000244}
+        - {x: 10.399994, y: 54.099976}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
